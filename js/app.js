@@ -2,7 +2,7 @@ var kuMeIk = angular.module('kuMeIk', [] );
 
 kuMeIk.controller('kuMeIk', function($scope) {
 	$scope.kategorite = [
-		{emri: 'Restorante', pershkrimi: 'Restorante m plak, ktu haen gjona a kpt ;)', foto: 'img/restorante.png', link: 'restorante.html'},
+		{emri: 'Restorante', pershkrimi: 'Restorante m plak, ktu haen gjona a kpt ;)', foto: 'img/Group.png', link: 'restorante.html'},
 		{emri: 'Bare', pershkrimi: '', foto: 'img/bare.png', link: 'bare.html'},
 		{emri: 'Snacks', pershkrimi: '', foto: 'img/snacks.png', link: 'snacks.html'},
 		{emri: 'Lounge', pershkrimi: '', foto: 'img/lounge.png', link: 'lounge.html'},
